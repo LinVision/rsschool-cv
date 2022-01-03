@@ -15,3 +15,7 @@
 ## About Me
 
 Hi, I'm starting my career as a frontend developer. I'm happy to be a padawan of RS School, because I like it very much.
+
+## Skills
+
+HTML, CSS, JS, Markdown, Git, VSCode
