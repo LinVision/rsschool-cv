@@ -1,7 +1,7 @@
 
 # Helen Mokrousova
 
-![Me](me.jpg)
+![Me](assets/me.jpg)
 
 ## Junior Frontend Developer
 
