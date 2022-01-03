@@ -28,6 +28,12 @@ function multiply(a, b){
 }
 ```
 
+## Education
+
+### State Technical University of Saratov (SSTU), 2003 to 2009
+
+Computer Science and Management in Technical Systems
+
 ## English
 
 A1
