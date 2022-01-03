@@ -19,3 +19,11 @@ Hi, I'm starting my career as a frontend developer. I'm happy to be a padawan of
 ## Skills
 
 HTML, CSS, JS, Markdown, Git, VSCode
+
+## Code Example
+
+```JS
+function multiply(a, b){
+  return a * b;
+}
+```
