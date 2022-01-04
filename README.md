@@ -1,1 +1,1 @@
-https://linvision.github.io/rsschool-cv/
+https://linvision.github.io/rsschool-cv
