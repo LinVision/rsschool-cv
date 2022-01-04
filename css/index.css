@@ -7,6 +7,18 @@ body {
   padding: 0;
 }
 
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 .line {
   height: .25rem;
+}
+
+.rs-school {
+  height: 1em;
 }
